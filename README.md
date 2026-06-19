@@ -1,3 +1,2 @@
-
-[Uploading PROJECT-CCNA.pdf…]()
+[📄 View Project PDF](./PROJECT-CCNA.pdf)
 
